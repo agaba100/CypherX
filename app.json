@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "GEORGE DEV",
   "version": "1.2.0",
-  "description": "CypherX, the best WhatsApp Bot",
+  "description": "GEO BOT, the best WhatsApp Bot",
   "logo": "https://i.ibb.co/DRW8wCV/Xploader4.jpg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/Dark-Xploit/CypherX",
@@ -11,22 +11,22 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~",
+      "description": "XPLOADER-BOT:~6zgSCQLY#uo2rdNDCuJKksRzitRKAPHYOo9_zcrEvsf5ulRoWi28; must start with XPLOADER-BOT:~",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "GEO BOT",
       "value": "CypherX",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here",
+      "description": "256744826835",
       "value": "254754783972",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "GEORGE DEV",
       "value": "Tylor",
       "required": true
     },
