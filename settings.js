@@ -19,7 +19,7 @@ global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~6zgSCQLY#uo2rdNDCuJ
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || 'GEO BOT' 
+global.botname = process.env.BOT_NAME || 'GEO Dev' 
 //Your desired bot name
 
 //=================================================//
